@@ -1,3 +1,5 @@
+https://practice.geeksforgeeks.org/problems/bit-difference-1587115620/0/?track=DSASP-BitMagic&batchId=154
+
 #include<bits/stdc++.h>
 using namespace std;
 
